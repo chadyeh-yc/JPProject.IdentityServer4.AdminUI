@@ -40,7 +40,7 @@
     "angular-oauth2-oidc": "^8.0.2",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.7.2",
-    "core-js": "^3.1.4",
+    "core-js": "^3.3.2",
     "flag-icon-css": "^3.0.0",
     "font-awesome": "^4.7.0",
     "hoek": "^6.1.3",
