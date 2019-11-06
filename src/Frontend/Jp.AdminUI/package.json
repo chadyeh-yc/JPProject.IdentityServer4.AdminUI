@@ -48,7 +48,7 @@
     "chart.js": "^2.8.0",
     "classlist.js": "1.1.20150312",
     "codemirror": "^5.45.0",
-    "core-js": "^3.1.4",
+    "core-js": "^3.4.0",
     "easy-pie-chart": "2.1.7",
     "enhanced-resolve": "^4.1.0",
     "fast-json-patch": "^3.0.0-1",
